@@ -1,16 +1,16 @@
-<h1 align="center">Hi 👋, I'm María García</h1>
-<h3 align="center">Backend Developer living in Venezuela</h3><br>
+<h1 align="center">Bienvenido 👋 soy María García</h1>
+<h3 align="center">Desarrolladora Backend viviendo en Venezuela</h3><br>
 
-- 🌱 I’m currently learning: **Python for backend with FastAPI and MongoDB**
+- 🌱 Actualmente estoy aprendiendo: **Python para backend con FastAPI y MongoDB**
 
-- 📫 How to reach me: **marialejandra.g98@gmail.com**
+- 📫 Cómo contactarme: **marialejandra.g98@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conecta conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mariale-garcia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariale-garcia" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Lenguajes y herramientas:</h3>
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
