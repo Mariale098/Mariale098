@@ -1,6 +1,6 @@
 
 ## 🚀 About Me
-I'm a semi-senior backend developer with 2 years of experience in building scalable web application systems. I started developing with Python doing web scraping, using libraries such as: NumPy, Pandas, Matplotlib, NLTK, spaCy . In addition to building interactive dashboards using Power BI.
+I'm a semi-senior backend developer with 3 years of experience in building scalable web application systems. I started developing with Python doing web scraping, using libraries such as: NumPy, Pandas, Matplotlib, NLTK, spaCy . In addition to building interactive dashboards using Power BI.
 
 
 
